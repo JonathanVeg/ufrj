@@ -1,9 +1,47 @@
+VERIFICAR INGLÊS DISSO AQUI
+
+Ver sobre Verduca, Cousera e Duolingo.
+
 Data Warehouse - Maria Luiza (email: luiza@ppgi.ufrj.br)
 
-Matéria focada em B.I.
+Matéria focada em B.I. e ambientes corporatvos.
 
-Site: greco.ppgi.ufrj.br/moodle (mesmo de SI)
+Site: greco.ppgi.ufrj.br/moodle (mesmo de SI) - buscar links interessantes e revistas atualizadas da área.
 
-Sequencia de livros do Kimball
+DW2013 - Para me inscrever no Greco.
+
+Sequencia de livros do Kimball:
+
+The Datawarehouse  Toolkit*;
+The DataWebhouse*;
+The Datawarehouse;
+The Datawarehouse Lifecycle  Toolkit;
+The Microsoft Lifecycle  Toolkit;
+The Datawarehouse  ETL Toolkit;
+The Datawarehouse  Toolkit - NOVA EDIÇÃO - LIVRO ATUAL.
+
+*traduzidos
+
+Ver também sobre o Inmon - Corporate Information Factory
+
+23/10/13
+
+SOPA DE LETRINHAS:
+	BSC - Balance Score Card - medição da efetividade geral da empresa
+	
+	CRM - Costumer R. M.
+	PRM - Partner R. M. - Exemplo, relações entre a Amazon e as editoras, as transportadoras e outros
+		No PRM analitico eu vejo se os serviços prestados pelos parceiros estão de acordo com o que euespero e onde isso atrapalha minhas relações com os clientes
+	SCM - Supplies Change M. - Cadeia de Suplementos - Logística
+	EDI - Eletronic Data Interchange
+	ERP - Sistemas Integrados de Gestão (SIG) - hoje até tem coisa analitica, mas ele é basicamente operacional
+	BI - Business Intelligence - Parte analítica da Coisa
+		CI - Copetitive Intelligence - Inteligência competitiva
+		KMS - Sistemas de Gestão do Conhecimento
+	EAI - Entreprise Applications Integration - Integração das Aplicações da Empresa
+		ETL - um "tipo" de EAI com ferramentas de muito alto nível - usado na 'transferência' dos dados do operacional pro analítico
 
 
+Reouvir o DatabaseCast de OLAP
+
+Esquema estrela e floco de nove de organização de dados.
