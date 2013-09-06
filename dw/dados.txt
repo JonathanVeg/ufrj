@@ -1,3 +1,6 @@
+Grupo:
+	Gabriel - gabrielcfcleite@gmail.com
+
 VERIFICAR INGLÊS DISSO AQUI
 
 Ver sobre Verduca, Cousera e Duolingo.
@@ -47,3 +50,15 @@ Reouvir o DatabaseCast de OLAP (cubo de dados)
 	Tipos comuns de dimensões: quem, quando, onde, o quê, etc.
 
 
+Defesa de projeto final, Raphaela Nunes:
+	Agrotóxicos no Brasil
+	Sistemas usados:
+		Kettle - usado para extrair e carregar os dados nos DataMarts.
+		Mondrian - servidor (R)OLAP usado.
+		Pentaho BI Server - console pro usuário.
+		Saiku - ferramenta OLAP usada. Permite consultas ad-hoc, onde cfaz consultas de dados vindos dos usuários em tempo real.
+	Para deixar os dados da Web decentes:
+		Firebug - Achar os dados
+		Usado em Python:
+			URLLIB - baixar o conteúdo.
+			Beautiful Soup - ajeitar o conteúdo.

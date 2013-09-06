@@ -42,6 +42,8 @@ SOPA DE LETRINHAS:
 		ETL - um "tipo" de EAI com ferramentas de muito alto nível - usado na 'transferência' dos dados do operacional pro analítico
 
 
-Reouvir o DatabaseCast de OLAP
+Reouvir o DatabaseCast de OLAP (cubo de dados)
+	Esquema estrela e floco de nove de organização de dados.
+	Tipos comuns de dimensões: quem, quando, onde, o quê, etc.
 
-Esquema estrela e floco de nove de organização de dados.
+
